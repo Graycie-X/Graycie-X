@@ -10,7 +10,7 @@
 ```
 
 # GitHub Status
-![Ken-JP's github stats](https://github-readme-stats.vercel.app/api?username=Ken-JP&count_private=true&show_icons=true)
+![Ken-JP's github stats](https://github-readme-stats.vercel.app/api?username=Graycie－Xcount_private=true&show_icons=true)
 
 # Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-JP&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Graycie－X&layout=compact)
