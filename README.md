@@ -1,7 +1,7 @@
-# Ken-JP
+# Graycie
 ```
 {
-  "Name":"Ken-JP",
+  "Name":"Graycie",
   "Country":"日本",
   "Twitter":"@Graycie_X",
   "Discord":"Graycie#3990"
