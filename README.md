@@ -2,7 +2,7 @@
 ```
 {
   "Name":"Graycie",
-  "Country":"日本",
+  "Country":"日本 / Japan",
   "Twitter":"@Graycie_X",
   "Discord":"Graycie#3990"
   "Comment":"Nintendo Homebrew"
